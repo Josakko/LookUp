@@ -2,7 +2,7 @@
 LookUp made in python 
 
 ## Usage 
-Download executable file [here](https://www.mediafire.com/file/ltzorpvkpcpecb5/Lookup.zip/file).
+Download executable file [here](). (not made yet)
 
 ## Need Help?
 If you need help contact me on my [discord server](https://discord.gg/xgET5epJE6).
